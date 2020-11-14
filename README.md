@@ -14,7 +14,7 @@ Academy awards analysis is a data analysis of all the Oscar award winners from t
   * Merging data from various sources to create bigger data frames for analysis
 
 ## Machine Learning Model
-The project uses Random Forest to predict winner among a given set of nominees. It attains an accuracy of 88% for test and 92% for train set. The code also shows a consufion matrix which depicts the overall performance of the model.
+The project uses Random Forest to predict winner among a given set of nominees. It attains an accuracy of 88% for test and 92% for train set. The code also shows a confusion matrix which depicts the overall performance of the model.
 
 ## Visualizations
 The code displays a number of plots which includes 
